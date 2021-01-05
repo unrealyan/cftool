@@ -1,0 +1,7 @@
+name = "[your project name]"
+type = "javascript"
+account_id = "[your account_id]"
+workers_dev = true
+route = ""
+zone_id = "[your cf workers zone_id]"
+
